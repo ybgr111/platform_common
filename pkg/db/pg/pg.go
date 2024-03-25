@@ -10,7 +10,7 @@ import (
 	"github.com/jackc/pgx/v4"
 	"github.com/jackc/pgx/v4/pgxpool"
 
-	"github.com/ybgr111/platform_common/pkg/client/db"
+	"github.com/ybgr111/platform_common/pkg/db"
 	"github.com/ybgr111/platform_common/pkg/db/prettier"
 )
 
