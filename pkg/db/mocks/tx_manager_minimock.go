@@ -11,7 +11,7 @@ import (
 	mm_time "time"
 
 	"github.com/gojuno/minimock/v3"
-	mm_db "github.com/ybgr111/platform_common/pkg/db"
+	mm_db "github.com/ybgr111/platform-common/pkg/db"
 )
 
 // TxManagerMock implements db.TxManager

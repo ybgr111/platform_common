@@ -8,7 +8,6 @@ require (
 	github.com/jackc/pgconn v1.14.3
 	github.com/jackc/pgx/v4 v4.18.3
 	github.com/pkg/errors v0.9.1
-	github.com/ybgr111/auth v0.0.0-20240325160614-914498988aff
 )
 
 require (
