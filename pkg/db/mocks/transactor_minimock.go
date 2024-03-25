@@ -2,7 +2,7 @@
 
 package mocks
 
-//go:generate minimock -i github.com/ybgr111/auth/internal/client/db.Transactor -o transactor_minimock.go -n TransactorMock -p mocks
+//go:generate minimock -i github.com/ybgr111/platform_common/pkg/db.Transactor -o transactor_minimock.go -n TransactorMock -p mocks
 
 import (
 	"context"
